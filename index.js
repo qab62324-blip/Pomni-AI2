@@ -34,12 +34,11 @@ if (!global.db) {
 const { config } = client;
 config.info = { 
   nameBot: "♡ 3QAB 🎪 〈", 
-  nameChannel: "𝐕𝐈𝐈7 ~ 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 🕷️", 
+  nameChannel: "3QAB515 🕷️", 
   idChannel: "120363225356834044@newsletter",
   urls: {
     repo: "https://github.com/deveni0/Pomni-AI",
-    api: "https://emam-api.web.id",
-    channel: "https://whatsapp.com/channel/0029VaQim2bAu3aPsRVaDq3v"
+    api: "https://whatsapp.com/channel/0029VbCeMSwK5cD7ZnRqat0p"
   },
   copyright: { 
     pack: 'ڤـ ـ VA ـ ـا', 
